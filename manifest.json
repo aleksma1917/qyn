@@ -1,0 +1,20 @@
+{
+    "name": "Rocket Queen Finder",
+    "short_name": "Queen Finder",
+    "start_url": "https://github.com/aleksma1917/QN3?search=1",
+    "display": "fullscreen",
+    "background_color": "#e549b0",
+    "theme_color": "#e549b0",
+    "icons": [
+      {
+        "src": "ava.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "ava.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
